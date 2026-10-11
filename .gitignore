@@ -12,6 +12,3 @@ ehthumbs.db
 # Node logs
 npm-debug.log*
 
-# Large video files (GitHub blocks files > 100MB on push)
-assets/videos/*.mp4
-
