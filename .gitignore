@@ -1,0 +1,17 @@
+# Windows thumbnail cache
+Thumbs.db
+ehthumbs.db
+
+# macOS files
+.DS_Store
+
+# Editor directories
+.vscode/
+.idea/
+
+# Node logs
+npm-debug.log*
+
+# Large video files (GitHub blocks files > 100MB on push)
+assets/videos/*.mp4
+
