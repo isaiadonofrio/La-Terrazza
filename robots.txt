@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isaiadonofrio.github.io/La-Terrazza/sitemap.xml
